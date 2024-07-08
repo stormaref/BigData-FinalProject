@@ -1,0 +1,31 @@
+username,full_name,follower_count,following_count,num_posts,avg_likes,avg_comments,avg_slides,avg_caption_length,top_10_tags
+techcrunch,TechCrunch,1566321,103,5246,1226.05,28.55,1.45,778.3,"['#TechCrunch', '#technews', '#artificialintelligence', '#GenAI', '#Meta', '#ElonMusk', '#TimCook', '#Apple', '#socialmedia', '#Zuck']"
+wired,WIRED,1831334,451,10013,1234.05,91.95,1.85,684.0,"['#Elections2024', '#generalection2024', '#labourparty', '#tories', '#WIREDSixWord', '#ElectionResults', '#Ozempic', '#Wegovy', '#hurricanes', '#hurricaneseason']"
+mashable,Mashable,993525,830,10579,601.1,14.3,2.45,644.55,"['#jesseplemons', '#emmastone', '#moviescenes', '#gladiator', '#gladiator2', '#pedropascal', '#paulmescal', '#newmovies', '#space', '#astronomy']"
+thenextweb,TNW,110557,136,1735,38.0,0.7,4.05,513.3,"['#techevent', '#tech', '#tnwconference', '#amsterdam', '#TNWConference', '#startup', '#innovation', '#amsterdamevent', '#techconference', '#networking']"
+gizmodo,GIZMODO,125442,25,1011,88.8,6.8,1.7,237.6,"['#sponsored', '#Partner', '#Boeing', '#TikTok', '#SuperBowl', '#AppleVisionPro', '#Pixel8Pro', '#Google', '#Peregrine', '#GUTS']"
+engadget,Engadget,377847,118,3200,191.95,14.45,1.35,317.35,['#AmazonPrimeDay']
+digitaltrends,Digital Trends,1293207,1275,8513,689.75,20.4,1.1,360.3,"['#technews', '#artificialintelligence', '#apple', '#samsunggalaxy', '#gamingnews', '#galaxyzflip6', '#iphone', '#airpods', '#markzuckerberg', '#meta']"
+cnet,CNET,1171076,276,9105,507.25,12.45,1.75,458.9,"['#tech', '#ai', '#summer', '#hometech', '#unboxing', '#food', '#photography', '#home', '#blackstone', '#google']"
+theapplehub,Apple Hub,1001445,108,3472,26210.05,213.1,2.45,99.0,[]
+androidauthority,Android Authority,740808,3,2643,510.9,7.35,1.0,94.9,"['#qualcomm', '#AI', '#googlepixel', '#android', '#mobile', '#technology', '#GalaxyZFold6', '#GalaxyUnpacked', '#iPhone', '#OpenAI']"
+gadgetflow,"Tech, Gadgets and Crowdfunding",243517,49,3798,38.45,1.15,1.0,204.2,"['#gadgetflow', '#tech', '#ipadpro', '#birdwatching', '#chargers', '#actioncam', '#contentcreation', '#augmentedreality', '#wearables', '#waterfilter']"
+unboxtherapy,Lewis Hilsenteger,2881415,136,3619,16136.2,248.05,1.0,118.95,"['#partner', '#sunseeker', '#robot', '#lawnmower', '#orion', '#CMFPhone1', '#AcerSwiftGo', '#IntelCoreUltra', '#laifenwave', '#electronictoothbrush']"
+linustech,Linus Tech Tips,1612756,6,4356,38004.0,204.75,1.25,49.8,"['#ad', '#dji', '#portablepowerstation', '#solargenerator', '#djipower1000']"
+androidcentral,Android Central,282266,148,1265,305.7,5.35,1.0,204.2,"['#androidcentral', '#android', '#smartphone', '#tech', '#mobile', '#handson', '#ai', '#generativeai', '#motorola', '#google']"
+appleinsider,AppleInsider,98236,53,3547,298.6,6.55,1.0,237.15,"['#appletoday', '#apple', '#appledaily', '#applenews', '#iphone', '#wwdc', '#applenewstoday', '#appleevent', '#ipad', '#macbook']"
+thegadgetshow,The Gadget Show,16223,35,669,88.05,4.15,1.05,318.95,"['#GadgetShow', '#AI']"
+techradar,techradar,145070,114,1097,1.2,12.9,1.0,189.2,"['#photography', '#unboxing', '#ai', '#techradar', '#android', '#apple', '#iphone', '#phone', '#technews', '#appleevent']"
+mkbhd,Marques Brownlee,4905227,509,1986,119380.1,954.45,1.9,205.85,[]
+alcontech,Technology/gadgets,59221,39,350,367.1,3.05,1.0,362.15,"['#techtrends', '#tech', '#techie', '#techlife', '#techies', '#techworld', '#techlovers', '#techupdates', '#techaddict', '#techgeek']"
+verge,The Verge,1577526,180,4395,1827.9,33.05,1.75,258.0,"['#apple', '#technews', '#tech', '#vergecast', '#todayimtoyingwith', '#carsofinstagram', '#ar', '#ipad', '#smarthome', '#evs']"
+csharp_dotnet,C#.NET Programming (C# | .NET),12212,17,71,187.5,10.15,1.3,171.35,"['#dotnet', '#csharp', '#csharpdotnet', '#dotnetcore', '#programming', '#code', '#aspnetcore', '#coder', '#aspnetmvc', '#aspnetwebapi']"
+madewithcode,Made with Code,75115,189,558,0.0,0.0,0.0,0.0,[]
+gitHub,GitHub,482312,39,849,2547.45,15.9,2.1,144.7,"['#GitHubUniverse', '#unboxing', '#stanleycup', '#stanleyquencher', '#limitededition', '#desksetup', '#programming', '#irlcontributiongraph', '#Pride', '#NationalDonutDay']"
+insidertech,Insider Tech,1806842,14,2879,3232.9,94.75,1.0,472.05,"['#tesla', '#elonmusk', '#tech', '#ElonMusk', '#Tesla', '#cars', '#Cybertruck', '#cybertruck', '#careers', '#samaltman']"
+microsoft,Microsoft,4401197,235,1012,7134.8,215.3,1.85,146.65,['#Pride']
+openai,OpenAI,1688992,2,1224,8415.7,298.15,2.1,434.25,"['#aiart', '#dalle3', '#ai', '#openai', '#aiartcommunity', '#art', '#gpt4', '#artificialintelligence', '#artwork', '#OpenAI']"
+python.hub,Python helper,1651203,95,3900,3931.05,75.7,3.45,377.05,"['#programming', '#coding', '#python3', '#pythonprojects', '#pythonbeginner', '#html', '#css', '#pythonhub', '#meme', '#ai']"
+linux.teach,Linux Helper,170689,6,461,1351.85,13.9,1.9,141.8,"['#linux', '#linuxubuntu', '#linuxmint', '#linuxfan', '#programming', '#linuxserver', '#coding', '#linuxuser', '#programmer', '#coder']"
+javascript.js,JavaScript,750543,2,2552,19223.8,96.5,1.3,311.3,"['#javascript', '#typescript', '#react', '#reactnative', '#vuejs', '#webdevelopment', '#webdeveloper', '#angular', '#webdesigner', '#html']"
+mobiscrub,Mobiscrub,402676,0,326,20665.7,640.45,1.0,391.95,"['#reelitfeelit', '#android', '#instareels', '#trendingreels', '#2024', '#newphone', '#smartphone', '#trending', '#iPhone', '#tipsandtricks']"
